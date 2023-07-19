@@ -1,10 +1,3 @@
-"""
-Repitições
-while (enquanto)
-Executa uma ação enquento uma condição for verdadeira
-Loop infinito -> Quando um código não tem fim
-"""
-
 contador = 0
 
 while contador <= 100:
